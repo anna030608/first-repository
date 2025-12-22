@@ -1,3 +1,3 @@
-# first-repository
-## git config
-add new contents
+#Peer_review
+가현님의 피어 프로그래밍 코드를 리뷰해봤습니다. 
+random 함수, map - strip을 사용해서 코드를 작성해주셨는데, 저희 조와 전체적으로 비슷한 로직이면서 자세한 부분들이 다른 게 흥미로웠고 많이 배워가는 시간이었습니다!! 
